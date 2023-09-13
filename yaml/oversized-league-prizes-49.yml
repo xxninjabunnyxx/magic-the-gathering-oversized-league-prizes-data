@@ -1,0 +1,118 @@
+---
+object: card
+id: 5266f59d-dba0-4474-8c5a-df61bfa1aa8e
+oracle_id: 8673cc01-7d5d-41ee-aede-f21efc74216c
+multiverse_ids: []
+name: Squirrel Farm
+lang: en
+released_at: '1998-07-17'
+uri: https://api.scryfall.com/cards/5266f59d-dba0-4474-8c5a-df61bfa1aa8e
+scryfall_uri: https://scryfall.com/card/olep/49/squirrel-farm?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/2/5266f59d-dba0-4474-8c5a-df61bfa1aa8e.jpg?1661825505
+  normal: https://cards.scryfall.io/normal/front/5/2/5266f59d-dba0-4474-8c5a-df61bfa1aa8e.jpg?1661825505
+  large: https://cards.scryfall.io/large/front/5/2/5266f59d-dba0-4474-8c5a-df61bfa1aa8e.jpg?1661825505
+  png: https://cards.scryfall.io/png/front/5/2/5266f59d-dba0-4474-8c5a-df61bfa1aa8e.png?1661825505
+  art_crop: https://cards.scryfall.io/art_crop/front/5/2/5266f59d-dba0-4474-8c5a-df61bfa1aa8e.jpg?1661825505
+  border_crop: https://cards.scryfall.io/border_crop/front/5/2/5266f59d-dba0-4474-8c5a-df61bfa1aa8e.jpg?1661825505
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Enchantment
+oracle_text: "{1}{G}: Reveal a card in your hand, covering the artist credit. Target
+  opponent guesses the artist. If they guess wrong, create a 1/1 green Squirrel creature
+  token."
+colors:
+- G
+color_identity:
+- G
+keywords: []
+all_parts:
+- object: related_card
+  id: 27f8ccb9-32b2-4562-a60f-843e82795984
+  component: token
+  name: Squirrel
+  type_line: Token Creature — Squirrel
+  uri: https://api.scryfall.com/cards/27f8ccb9-32b2-4562-a60f-843e82795984
+- object: related_card
+  id: cc67b0f2-c36d-4ad8-b2ec-08934568526b
+  component: combo_piece
+  name: Squirrel Farm
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/cc67b0f2-c36d-4ad8-b2ec-08934568526b
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: true
+promo: false
+reprint: true
+variation: false
+set_id: 38210efe-e2d7-47ff-9817-4b5631e4bb8a
+set: olep
+set_name: Oversized League Prizes
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/38210efe-e2d7-47ff-9817-4b5631e4bb8a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aolep&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/olep?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5266f59d-dba0-4474-8c5a-df61bfa1aa8e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8673cc01-7d5d-41ee-aede-f21efc74216c&unique=prints
+collector_number: '49'
+digital: false
+rarity: rare
+flavor_text: |-
+  "And the ignorant shall fall to the squirrels."
+  —*Chip 2:54*
+card_back_id: 80e6ae77-74c3-450d-a0a2-01f3168d7712
+artist: Ron Spencer
+artist_ids:
+- dab52c11-0564-4207-a4a1-c1735c946a65
+illustration_id: 118b5a40-7fa1-4ec9-a65d-0534c63eb429
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Squirrel+Farm&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Squirrel+Farm&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Squirrel+Farm
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Squirrel+Farm&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Squirrel+Farm&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Squirrel+Farm&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,111 @@
+---
+object: card
+id: 8be40722-3005-41b4-abee-39ec129680cc
+oracle_id: fc728cd7-2b5b-45f3-896a-a45648bcb61d
+multiverse_ids: []
+name: Baron Sengir
+lang: en
+released_at: '1998-04-10'
+uri: https://api.scryfall.com/cards/8be40722-3005-41b4-abee-39ec129680cc
+scryfall_uri: https://scryfall.com/card/olep/37/baron-sengir?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/b/8be40722-3005-41b4-abee-39ec129680cc.jpg?1661825206
+  normal: https://cards.scryfall.io/normal/front/8/b/8be40722-3005-41b4-abee-39ec129680cc.jpg?1661825206
+  large: https://cards.scryfall.io/large/front/8/b/8be40722-3005-41b4-abee-39ec129680cc.jpg?1661825206
+  png: https://cards.scryfall.io/png/front/8/b/8be40722-3005-41b4-abee-39ec129680cc.png?1661825206
+  art_crop: https://cards.scryfall.io/art_crop/front/8/b/8be40722-3005-41b4-abee-39ec129680cc.jpg?1661825206
+  border_crop: https://cards.scryfall.io/border_crop/front/8/b/8be40722-3005-41b4-abee-39ec129680cc.jpg?1661825206
+mana_cost: "{5}{B}{B}{B}"
+cmc: 8.0
+type_line: Legendary Creature — Vampire Noble
+oracle_text: |-
+  Flying
+  Whenever a creature dealt damage by Baron Sengir this turn dies, put a +2/+2 counter on Baron Sengir.
+  {T}: Regenerate another target Vampire.
+power: '5'
+toughness: '5'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: true
+promo: false
+reprint: true
+variation: false
+set_id: 38210efe-e2d7-47ff-9817-4b5631e4bb8a
+set: olep
+set_name: Oversized League Prizes
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/38210efe-e2d7-47ff-9817-4b5631e4bb8a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aolep&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/olep?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8be40722-3005-41b4-abee-39ec129680cc/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afc728cd7-2b5b-45f3-896a-a45648bcb61d&unique=prints
+collector_number: '37'
+digital: false
+rarity: rare
+flavor_text: |-
+  "Beast. Defiler. The source of all my pain."
+  —Ihsan's Shade
+card_back_id: 80e6ae77-74c3-450d-a0a2-01f3168d7712
+artist: Pete Venters
+artist_ids:
+- d54c4a1a-c0c5-4834-84db-125d341f3ad8
+illustration_id: a2d5e95c-1ba5-460c-848e-20f83a342593
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 18184
+penny_rank: 10916
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Baron+Sengir&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Baron+Sengir&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Baron+Sengir
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Baron+Sengir&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Baron+Sengir&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Baron+Sengir&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

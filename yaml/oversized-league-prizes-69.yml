@@ -1,0 +1,113 @@
+---
+object: card
+id: d7daafb3-58b9-4a8e-9d1b-79572aeac4d8
+oracle_id: 620d0572-6d22-43e2-83a9-000e605c8a2b
+multiverse_ids: []
+name: Squandered Resources
+lang: en
+released_at: '1999-02-11'
+uri: https://api.scryfall.com/cards/d7daafb3-58b9-4a8e-9d1b-79572aeac4d8
+scryfall_uri: https://scryfall.com/card/olep/69/squandered-resources?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/7/d7daafb3-58b9-4a8e-9d1b-79572aeac4d8.jpg?1661826019
+  normal: https://cards.scryfall.io/normal/front/d/7/d7daafb3-58b9-4a8e-9d1b-79572aeac4d8.jpg?1661826019
+  large: https://cards.scryfall.io/large/front/d/7/d7daafb3-58b9-4a8e-9d1b-79572aeac4d8.jpg?1661826019
+  png: https://cards.scryfall.io/png/front/d/7/d7daafb3-58b9-4a8e-9d1b-79572aeac4d8.png?1661826019
+  art_crop: https://cards.scryfall.io/art_crop/front/d/7/d7daafb3-58b9-4a8e-9d1b-79572aeac4d8.jpg?1661826019
+  border_crop: https://cards.scryfall.io/border_crop/front/d/7/d7daafb3-58b9-4a8e-9d1b-79572aeac4d8.jpg?1661826019
+mana_cost: "{B}{G}"
+cmc: 2.0
+type_line: Enchantment
+oracle_text: 'Sacrifice a land: Add one mana of any type the sacrificed land could
+  produce.'
+colors:
+- B
+- G
+color_identity:
+- B
+- G
+keywords: []
+produced_mana:
+- B
+- G
+- R
+- U
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: true
+promo: false
+reprint: true
+variation: false
+set_id: 38210efe-e2d7-47ff-9817-4b5631e4bb8a
+set: olep
+set_name: Oversized League Prizes
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/38210efe-e2d7-47ff-9817-4b5631e4bb8a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aolep&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/olep?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d7daafb3-58b9-4a8e-9d1b-79572aeac4d8/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A620d0572-6d22-43e2-83a9-000e605c8a2b&unique=prints
+collector_number: '69'
+digital: false
+rarity: rare
+flavor_text: |-
+  "He traded sand for skins, skins for gold, gold for life. In the end, he traded life for sand."
+  —Afari, *Tales*
+card_back_id: 80e6ae77-74c3-450d-a0a2-01f3168d7712
+artist: Romas Kukalis
+artist_ids:
+- eabea83d-21b3-41dd-97b5-e22dd4b55e91
+illustration_id: dd17a336-8d06-4920-af3d-f9cfa93c4731
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 5857
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Squandered+Resources&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Squandered+Resources&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Squandered+Resources
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Squandered+Resources&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Squandered+Resources&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Squandered+Resources&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,106 @@
+---
+object: card
+id: 5cb1f9a2-3f60-48da-b426-813b99343c2b
+oracle_id: d8fd7a34-8418-4e98-b79b-119c4348c667
+multiverse_ids: []
+name: Incinerate
+lang: en
+released_at: '1998-05-29'
+uri: https://api.scryfall.com/cards/5cb1f9a2-3f60-48da-b426-813b99343c2b
+scryfall_uri: https://scryfall.com/card/olep/43/incinerate?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/c/5cb1f9a2-3f60-48da-b426-813b99343c2b.jpg?1661825355
+  normal: https://cards.scryfall.io/normal/front/5/c/5cb1f9a2-3f60-48da-b426-813b99343c2b.jpg?1661825355
+  large: https://cards.scryfall.io/large/front/5/c/5cb1f9a2-3f60-48da-b426-813b99343c2b.jpg?1661825355
+  png: https://cards.scryfall.io/png/front/5/c/5cb1f9a2-3f60-48da-b426-813b99343c2b.png?1661825355
+  art_crop: https://cards.scryfall.io/art_crop/front/5/c/5cb1f9a2-3f60-48da-b426-813b99343c2b.jpg?1661825355
+  border_crop: https://cards.scryfall.io/border_crop/front/5/c/5cb1f9a2-3f60-48da-b426-813b99343c2b.jpg?1661825355
+mana_cost: "{1}{R}"
+cmc: 2.0
+type_line: Instant
+oracle_text: Incinerate deals 3 damage to any target. A creature dealt damage this
+  way can't be regenerated this turn.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: true
+promo: false
+reprint: true
+variation: false
+set_id: 38210efe-e2d7-47ff-9817-4b5631e4bb8a
+set: olep
+set_name: Oversized League Prizes
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/38210efe-e2d7-47ff-9817-4b5631e4bb8a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aolep&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/olep?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5cb1f9a2-3f60-48da-b426-813b99343c2b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad8fd7a34-8418-4e98-b79b-119c4348c667&unique=prints
+collector_number: '43'
+digital: false
+rarity: rare
+flavor_text: |-
+  "Never taunt an embermage, 'What are you going to do about it?'"
+  —Akin, seasoned askari
+card_back_id: 80e6ae77-74c3-450d-a0a2-01f3168d7712
+artist: Brian Snõddy
+artist_ids:
+- 770b4e16-de76-49ed-949f-84e6d2e06d25
+illustration_id: 992cfdc1-4d37-4d98-848b-1c81a70789bf
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 10277
+penny_rank: 114
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Incinerate&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Incinerate&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Incinerate
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Incinerate&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Incinerate&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Incinerate&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

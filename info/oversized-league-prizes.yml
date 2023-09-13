@@ -1,0 +1,15 @@
+---
+object: set
+id: 38210efe-e2d7-47ff-9817-4b5631e4bb8a
+code: olep
+name: Oversized League Prizes
+uri: https://api.scryfall.com/sets/38210efe-e2d7-47ff-9817-4b5631e4bb8a
+scryfall_uri: https://scryfall.com/sets/olep
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aolep&unique=prints
+released_at: '1997-05-30'
+set_type: memorabilia
+card_count: 83
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/star.svg?1694404800
